@@ -1,1 +1,2 @@
-print("4th file print")
+for i in range(10):
+    print(i)
